@@ -1,2 +1,3 @@
 # List of changes
-- First commit 
+- First commit (1.0.0)
+- Second commit (1.0.1)
