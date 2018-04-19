@@ -1,8 +1,9 @@
-- First commit (1.0.0) -- blahblah
-- Second commit (1.0.1) -- second commit base
+- First commit (1.0.0)
+- Second commit (1.0.1)
 - Another branch (1.0.2)
 - Forth commit (1.0.3)
 - Forth recommit (1.0.3)
 - Test for codebrag
 - Test for github
 - Test for squash
+- test for review
