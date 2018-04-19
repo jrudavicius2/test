@@ -5,3 +5,4 @@
 - Forth recommit (1.0.3)
 - Test for codebrag
 - Test for github
+- Test for squash
