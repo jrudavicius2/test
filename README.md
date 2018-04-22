@@ -7,3 +7,4 @@
 - Test for github
 - Test for squash
 - test for review
+- test modify more than one file
